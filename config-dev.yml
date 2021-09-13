@@ -1,4 +1,4 @@
-dev
+dev  test
 
 server:
   port: 80
